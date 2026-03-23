@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lovish Chhabra 👋</h1>
 
 <p align="center">
-  <b>Senior Data Scientist & AI/ML Engineer | MLOps | Generative AI | LLMs | Cloud</b><br/>
+  <b>Data Scientist & AI/ML Engineer | MLOps | Generative AI | LLMs | Cloud</b><br/>
   <i>7+ Years of Experience · Deloitte · GCP Certified · BITS Pilani M.Tech (Data Science)</i>
 </p>
 
