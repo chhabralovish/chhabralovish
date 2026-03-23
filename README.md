@@ -120,20 +120,6 @@ Currently at **Deloitte**, I work at the intersection of Data Engineering, Machi
 ☁️ AWS MLOps Platform           → End-to-end pipeline built from scratch (CI/CD, monitoring, deployment)
 ```
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chhabralovish&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chhabralovish&theme=tokyonight&hide_border=true" width="47%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhabralovish&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
