@@ -86,7 +86,7 @@ Currently at **Deloitte**, I work at the intersection of Data Engineering, Machi
 
 ---
 
-### 🔷 T-Systems — Data Analyst / ML Engineer *(Dec 2019 – Feb 2021)*
+### 🔷 T-Systems — Data Analyst / ML Engineer *(Dec 2018 – Feb 2021)*
 
 - Worked on **Product Lifecycle Management (PLM)** and data analysis for major **automobile clients**
 - Automated manual data workflows and reporting processes
